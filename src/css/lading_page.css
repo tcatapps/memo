@@ -1,0 +1,22 @@
+.flex-xample {
+  display: flex;
+  background-color: aqua;
+}
+
+.left {
+  width: 50%;
+  background-color: bisque;
+}
+
+.right {
+  width: 50%;
+  background-color: blueviolet;
+}
+
+.title {
+  color: blue;
+}
+
+.paragraph {
+  color: gray;
+}
